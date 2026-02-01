@@ -4,14 +4,6 @@
 
 Welcome to the o1.exchange Brand Kit. This repository contains the official logos, assets, and guidelines for the o1.exchange brand.
 
-## Brand Colors
-
-| Color | Hex | Use Case |
-|-------|-----|----------|
-| **Electric Blue** | `#2979FF` | Primary Brand Color, CTAs, Highlights |
-| **Deep Space Black** | `#0B0B0B` | Backgrounds, Dark Theme Surfaces |
-| **Pure White** | `#FFFFFF` | Text, Icons on Dark Backgrounds |
-| **Slate Grey** | `#64748B` | Secondary Text, Borders |
 
 ## Contents
 
