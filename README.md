@@ -4,7 +4,7 @@ Welcome to the o1.exchange Brand Kit. This repository contains the official logo
 
 ## Contents
 
-- **[Guidelines](guidelines/)**: detailed PDF guidelines for using our brand assets.
+- **[Guidelines](guidelines/)**: Detailed PDF guidelines for using our brand assets.
 - **[Logos](logo/)**:
   - **[PNG](logo/png/)**: Raster format logos suitable for web and digital use.
   - **[SVG](logo/svg/)**: Vector format logos suitable for print and high-resolution applications.
