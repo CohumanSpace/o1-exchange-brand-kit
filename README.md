@@ -1,6 +1,6 @@
 # o1.exchange Brand Kit
 
-![o1.exchange Banner](assets/banner.png)
+![o1.exchange Banner](assets/x-cover.png)
 
 Welcome to the o1.exchange Brand Kit. This repository contains the official logos, assets, and guidelines for the o1.exchange brand.
 
