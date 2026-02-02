@@ -8,7 +8,7 @@ If you use the style guide, you'll help us tell the o1.exchange story consistent
 
 ## About o1.exchange
 
-o1.exchange is the next-generation trading platform built for the DeFi ecosystem, combining institutional-grade infrastructure with an intuitive user experience for traders of all levels.
+o1.exchange is the Onchain Everything Exchange, where you can build advanced strategies over any assets, spot/perp/prediction markets.
 
 ## Conventions
 
