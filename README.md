@@ -9,16 +9,7 @@
 
 This repo contains **brand** and **editorial style** guides for o1.exchange.
 
-o1.exchange is a decentralized derivatives exchange democratizing alpha for traders.
-
-## Brand Colors
-
-| Color | Hex | Use Case |
-|-------|-----|----------|
-| **Electric Blue** | `#2979FF` | Primary Brand Color, CTAs, Highlights |
-| **Deep Space Black** | `#0B0B0B` | Backgrounds, Dark Theme Surfaces |
-| **Pure White** | `#FFFFFF` | Text, Icons on Dark Backgrounds |
-| **Slate Grey** | `#64748B` | Secondary Text, Borders |
+o1.exchange is the next-generation trading platform built for the DeFi ecosystem, combining institutional-grade infrastructure with an intuitive user experience for traders of all levels.
 
 Welcome to the o1.exchange Brand Kit. This repository contains the official logos, assets, and guidelines for the o1.exchange brand.
 
