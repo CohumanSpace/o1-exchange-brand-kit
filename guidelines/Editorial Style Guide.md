@@ -61,7 +61,7 @@ To increase your chances of amplification on social channels, please avoid the f
 
 ## Clarity, Concision, and Flow
 
-> “The goal is to make your paper as simple and clear, as immediately intelligible to the reader as possible. This doesn’t mean that you should ignore subtle and sophisticated complexities in your theory – but the challenge is to state those complexities simply and clearly. Avoid making your subject seem more complex than necessary (for example, if something “creates habits”, it’s probably neither necessary nor helpful to say that it “exhibits a habit-formation process”).”
+> “The goal is to make your paper as simple and clear, as immediately intelligible to the reader as possible. This doesn’t mean that you should ignore subtle and sophisticated complexities in your theory – but the challenge is to state those complexities simply and clearly. Avoid making your subject seem more complex than necessary (for example, if something “creates habits”, it’s probably neither necessary nor helpful to say that it “exhibits a habit-formation process”).” \~ [R. Wicks](https://www.academia.edu/75129398/Stylebook_Tips_on_Organization_Writing_and_Formatting)
 
 - Strategies for improving sentence clarity include using transitional words, properly placing subordinate clauses, and choosing action verbs over ‘be’ verbs (e.g. is, are).
 
@@ -126,4 +126,4 @@ o1.exchange prefers **active voice**. Sometimes [passive voice can be rhetorical
 
 This document has been remixed in part from:
 - The [Base Brand Kit](https://github.com/base/brand-kit)
-- The open-source Editorial Style Guide by Danica Swanson (for Starbased)
+- The open-source Editorial Style Guide by [Danica Swanson](https://warpcast.com/danicaswanson) (for [Starbased](https://starbased.notion.site/Starbased-f8659abc78ad4f2095ed01bc88cca519))
