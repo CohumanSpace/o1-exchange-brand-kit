@@ -110,6 +110,8 @@ o1.exchange prefers **active voice**. Sometimes passive voice can be rhetoricall
   - *Example*: “7am ET”, “1:30am PT”. Default to PT if no location referenced.
 - **Software Versioning Prefixes**: o1.exchange uses lowercase version number prefixes (v1, v1.5) rather than uppercase (V1).
 
----
+## References
 
-*This document has been remixed in part from the open-source Editorial Style Guide by Danica Swanson (for Starbased).*
+This document has been remixed in part from:
+- The [Base Brand Kit](https://github.com/base/brand-kit)
+- The open-source Editorial Style Guide by Danica Swanson (for Starbased)
