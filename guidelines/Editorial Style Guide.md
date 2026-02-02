@@ -6,6 +6,10 @@ o1.exchange will only amplify product updates that make use of o1.exchange API, 
 
 If you use the style guide, you'll help us tell the o1.exchange story consistently. You'll also be more likely to get amplification from the o1.exchange core team and other members of the o1.exchange ecosystem.
 
+## About o1.exchange
+
+o1.exchange is the next-generation trading platform built for the DeFi ecosystem, combining institutional-grade infrastructure with an intuitive user experience for traders of all levels.
+
 ## Conventions
 
 - **Have your brand supersede o1.exchange** (BRAND x o1.exchange, not o1.exchange x BRAND) in text and media assets. Position your brand before o1.exchange in text and media assets.
@@ -61,13 +65,13 @@ To increase your chances of amplification on social channels, please avoid the f
 
 - Strategies for improving sentence clarity include using transitional words, properly placing subordinate clauses, and choosing action verbs over ‘be’ verbs (e.g. is, are).
 
-### Plain Style
+### [Plain Style](https://owl.purdue.edu/owl/general_writing/writing_style/plain_style%20.html)
 
 Because we specialize in reducing complex topics into concise summaries that are digestible to the average user, o1.exchange encourages contributors to write in plain style. For example: opt for simple words like *use* rather than *utilize*.
 
 ### Passive and Active Voice
 
-o1.exchange prefers **active voice**. Sometimes passive voice can be rhetorically effective, but in most cases contributors should change passive to active voice.
+o1.exchange prefers **active voice**. Sometimes [passive voice can be rhetorically effective](https://owl.purdue.edu/owl/general_writing/academic_writing/active_and_passive_voice/choosing_passive_voice.html), but in most cases contributors should [change passive to active voice](https://owl.purdue.edu/owl/general_writing/academic_writing/active_and_passive_voice/changing_passive_to_active_voice.html).
 
 **Example:**
 
@@ -76,33 +80,35 @@ o1.exchange prefers **active voice**. Sometimes passive voice can be rhetoricall
 
 ### Tips for Improving Concision
 
-- Avoid redundancies. When in doubt, opt for two shorter sentences over one longer one. The Hemingway App can point out areas for improvement.
-- Consult the Purdue OWL page on concision for examples of “wordy vs. concise” sentences.
+- Avoid redundancies. When in doubt, opt for two shorter sentences over one longer one. The [Hemingway App](https://hemingwayapp.com/) can point out areas for improvement.
+- Consult the Purdue OWL page on [concision](https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html) for examples of “wordy vs. concise” sentences.
 - Avoid phrasing that adds little useful information for the reader, such as ending sentences with “…and more.”
 
 ### Tips for Improving Flow
 
-- Avoid sentence fragments.
-- Vary sentence structure, rhythm, opening words, and length.
+- Avoid [sentence fragments](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html).
+- [Vary](https://owl.purdue.edu/owl/general_writing/academic_writing/sentence_variety/index.html) sentence structure, rhythm, opening words, and length.
 
 ## Nuances
 
-- Follow the Purdue OWL guidelines for capitalization.
+- In general, follow the [Purdue OWL](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html) guidelines for capitalization.
 - For headlines, use **Title Case**, not sentence case.
 
 ## Punctuation
 
-- **Oxford Comma**: o1.exchange uses the Oxford comma.
+- [Oxford Comma](https://thewritelife.com/is-the-oxford-comma-necessary/): o1.exchange uses the Oxford comma.
   - *Do not use*: apples, oranges and bananas
   - *Use*: apples, oranges, and bananas
 - **Em Dashes**: Write em dashes as ( — ). Add spaces on both sides.
   - *Example*: “Facilitators accept responsibility to move groups through an agenda, ensure adherence to mutually agreed-upon process mechanics, and — if necessary — suggest alternates or additional discussion.”
+  - Consult [Merriam-Webster](https://www.merriam-webster.com/words-at-play/em-dash-en-dash-how-to-use) for general guidance on em dashes.
 - **Ampersands**: Use ampersands only in business names (e.g., “Tiffany&Co.”) and common abbreviations such as “B&B” or “R&D.” Avoid using ampersands as a substitute for the word “and.”
-- **Parentheticals**: When a sentence ends with a parenthetical, the sentence's period goes outside the parentheses (unless the entire sentence is parenthetical).
+- **Parentheticals**: [Where to place that period](https://style.mla.org/the-placement-of-a-comma-or-period-after-a-quotation)? As per [Typos of the NYT](https://twitter.com/nyttypos/status/1599500874354954240): “When a sentence ends with a parenthetical, the sentence's period goes outside the parentheses (unless the entire sentence is parenthetical).”
 - **Colons and Semicolons**: For lists included as part of the text, use semicolons as separators when at least one of the list items contains a comma. Otherwise, use commas.
 
 ## Numbers, Dates, and Times Basics
 
+- **Basics**: Consult the [Purdue OWL](https://owl.purdue.edu/owl/general_writing/grammar/writing_numbers.html) for basic guidelines.
 - **Numerals**: Write out numerals 0 through 9 as words: zero, one, two, three, etc.
   - *Exception*: Write 1-for-1, not one-for-one.
   - Write numerals 10 and above as Arabic numerals: 10, 59, 100, 9888, etc.
@@ -114,7 +120,7 @@ o1.exchange prefers **active voice**. Sometimes passive voice can be rhetoricall
 - **Decades**: Write out the first reference to a decade as “1960s” and abbreviate subsequent instances as “60s” (no apostrophe).
 - **Clock Times**: Always reference both the period of day and time zone. Period lowercase, time zone uppercase. No space between numeral and period, space before time zone.
   - *Example*: “7am ET”, “1:30am PT”. Default to PT if no location referenced.
-- **Software Versioning Prefixes**: o1.exchange uses lowercase version number prefixes (v1, v1.5) rather than uppercase (V1).
+- **Software Versioning Prefixes**: o1.exchange uses lowercase version number prefixes (v1, v1.5) rather than uppercase (V1). While there is no fixed standard, most software versioning at a low level uses Semantic Versioning Specification, aka [semver](https://semver.org/).
 
 ## References
 
