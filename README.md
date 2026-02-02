@@ -7,14 +7,14 @@ Welcome to the o1.exchange Brand Kit. This repository contains the official logo
 
 ## Contents
 
-- **[Guidelines](guidelines/)**: Detailed PDF guidelines for using our brand assets.
+- **[Guidelines](guidelines/)**: detailed editorial style guide for using our brand assets.
 - **[Logos](logo/)**:
   - **[PNG](logo/png/)**: Raster format logos suitable for web and digital use.
   - **[SVG](logo/svg/)**: Vector format logos suitable for print and high-resolution applications.
 
 ## Usage
 
-Please refer to the [Content Guidelines](guidelines/o1.exchange%20Content%20Guidelines.pdf) for instructions on how to correctly use our brand assets.
+Please refer to the [Editorial Style Guide](guidelines/Editorial%20Style%20Guide.md) for instructions on how to correctly use our brand assets.
 
 ## Ownership
 
