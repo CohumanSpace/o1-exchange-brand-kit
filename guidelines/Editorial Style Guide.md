@@ -49,6 +49,12 @@ To increase your chances of amplification on social channels, please avoid the f
 - Offers compelling reasons to return through memorable and engaging content
 - Minimal use of emojis (one at most)
 
+**More on tone and voice**
+
+- [Tone in Writing: A Simple Guide](https://jerryjenkins.com/tone-in-writing/) - ”**…voice is _what_ you say, and tone is _how_ you say it.**”
+- [A Word About Style, Voice, and Tone](https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter3/ch3-21.html) - “When you hear an author talking inside your head, “voice” is what that author sounds like. \[…] You can develop your own voice in your writing by paying special attention to rhythm, diction, and punctuation.”
+- [Point of View](https://www.merriam-webster.com/words-at-play/point-of-view-first-second-third-person-difference) - First, second, or third person? Omniscient, limited, or objective? Check for consistency.
+
 ## Clarity, Concision, and Flow
 
 > “The goal is to make your paper as simple and clear, as immediately intelligible to the reader as possible. This doesn’t mean that you should ignore subtle and sophisticated complexities in your theory – but the challenge is to state those complexities simply and clearly. Avoid making your subject seem more complex than necessary (for example, if something “creates habits”, it’s probably neither necessary nor helpful to say that it “exhibits a habit-formation process”).”
